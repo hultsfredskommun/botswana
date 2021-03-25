@@ -92,7 +92,8 @@ input[type="submit"],
 .primary-navigation li.focus > a,
 .secondary-navigation ul ul,
 .secondary-navigation li:hover > a,
-.secondary-navigation li.focus > a {
+.secondary-navigation li.focus > a,
+#secondary {
     background-color: #d7a437;
     /*background-color: #5c85b1;/*#24890d;*/
 }
